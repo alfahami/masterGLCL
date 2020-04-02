@@ -3,7 +3,8 @@
 [Live Demo](https://alfahami.github.io/mglcl-fsk-uit/) | [FS Kénitra](http://fs.uit.ac.ma/) | [Universite Ibn Tofail](http://uit.ac.ma/)
 
 Repo d'un simple website de présentation de formation d'études supérieures.\
-J'ai choisi notre master MGLCL de la faculté des sciences de Kénitra. \
+J'ai choisi notre master MGLCL de la faculté des sciences de Kénitra comme contenu. \
+Même si le contenu est la description relate la promotion 2019-2020, ceci n'est pas une présentation officielle de ladite formation.\
 Notez que le programme du master change d'années en années, merci de visiter le site officiel de la Faculté pour mieux être renseigné.
 
 ### Auteur

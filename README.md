@@ -15,6 +15,6 @@ Notez que le programme du master change d'années en années, merci de visiter l
  DEPARTEMENTS DE MATHEMATIQUES ET INFORMATIQUE
  
  ### Licence: 
- Projet réalisé dans un weekend ennuyeux et sous licence [MIT](https://opensource.org/licenses/MIT).
+ Projet réalisé dans un weekend ennuyeux et est sous licence [MIT](https://opensource.org/licenses/MIT).
 
 

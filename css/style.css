@@ -8,7 +8,7 @@
 /* Main Styling */
 html,
 body {
-  z-index: 999;
+  z-index: 1;
   font-family: "Goudy Bookletter 1911", Georgia, Times, serif;
   font-size: 1.05em;
   line-height: 1.7em;
@@ -162,11 +162,15 @@ ul li {
 
 /* Main-header */
 #navbar {
-  background: #333333;
+  background: transparent;
+  border-bottom: solid .05px #F8F8FF;
   color: #fff;
+  font-size: 0.8rem;
   position: sticky;
   top: 0;
-  overflow: auto;
+  z-index: 9999;
+  font-family: 'Quicksand', sans-serif !important;
+   overflow: auto;
 }
 
 #navbar h1 {
@@ -183,23 +187,25 @@ ul li {
 }
 
 #navbar ul li {
+  text-transform: uppercase;
   float: left;
 }
 
 #navbar #logo a,
 #navbar ul li a {
-  font-weight: 500;
   display: block;
   padding: 20px;
   text-align: center;
+  border-color: transparent;
 }
 
-#navbar #logo a:hover,
+
 #navbar ul li a:hover,
+#navbar ul li a:active,
 #navbar ul li a.current {
-  font-weight: bolder;
-  color: #f7c08a;
-  background: #444;
+  color: #fff;
+  font-weight: 600;
+  
 }
 
 /* Media Queries */

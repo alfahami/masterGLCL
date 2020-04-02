@@ -12,7 +12,7 @@ Notez que le programme du master change d'années en années, merci de visiter l
  
  [FS Kenitra](http://fs.uit.ac.ma/)
  
- DEPARTEMENTS DE MATHEMATIQUEs ET INFORMATIQUE
+ DEPARTEMENTS DE MATHEMATIQUES ET INFORMATIQUE
  
  ### Licence: 
  Projet réalisé dans un weekend ennuyeux et sous licence [MIT](https://opensource.org/licenses/MIT).

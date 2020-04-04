@@ -1,6 +1,6 @@
 ## Master Génie Logiciel pour le Cloud FS Kénitra (2019 - 2020)
 
-[Live Demo](https://alfahami.github.io/mglcl-fsk-uit/) | [FS Kénitra](http://fs.uit.ac.ma/) | [Universite Ibn Tofail](http://uit.ac.ma/)
+[Live Demo](https://alfahami.github.io/masterGLCL/) | [FS Kénitra](http://fs.uit.ac.ma/) | [Universite Ibn Tofail](http://uit.ac.ma/)
 
 Repo d'un simple website de présentation de formation d'études supérieures.\
 J'ai choisi notre master MGLCL de la faculté des sciences de Kénitra comme contenu. \

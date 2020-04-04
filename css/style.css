@@ -163,14 +163,14 @@ ul li {
 /* Main-header */
 #navbar {
   background: transparent;
-  border-bottom: solid .05px #F8F8FF;
+  border-bottom: solid 0.05px #f8f8ff;
   color: #fff;
   font-size: 0.8rem;
   position: sticky;
   top: 0;
   z-index: 9999;
-  font-family: 'Quicksand', sans-serif !important;
-   overflow: auto;
+  font-family: "Quicksand", sans-serif !important;
+  overflow: auto;
 }
 
 #navbar h1 {
@@ -199,13 +199,11 @@ ul li {
   border-color: transparent;
 }
 
-
 #navbar ul li a:hover,
 #navbar ul li a:active,
 #navbar ul li a.current {
   color: #fff;
   font-weight: 600;
-  
 }
 
 /* Media Queries */
